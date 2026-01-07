@@ -1,13 +1,13 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "Home"
+    url: "/"
+  - title: "Recent Posts" # 게시글 목록
     url: /year-archive/
-  - title: "Categories"
+  - title: "Categories" # 게시글 분류 목록
     url: /categories/
-  - title: "Tags"
+  - title: "Tags" # 태그 목록
     url: /tags/
-  - title: "Pages"
+#  - title: "Pages" 
     url: /page-archive/
 #  - title: "Collections"
     url: /collection-archive/
