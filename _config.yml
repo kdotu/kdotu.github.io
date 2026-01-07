@@ -1,3 +1,39 @@
+minimal_mistakes_skin: "default"
 theme: jekyll-theme-minimal
-title: kdotu's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Site Settings
+locale: "ko-KR" 
+title: develop record
+title_separator: "-"
+subtitle: "version 1.0"
+name: "name영역"
+description: "description영역"
+url: "https://kdotu.github.io"
+baseurl: "https://github.com/kdotu"
+repository: "https://github.com/kdotu/kdotu.github.io"
+masthead_title: "화면title"
+
+# Site Author
+author:
+  name             : "Kim Se Yoon"                  # 이름 영역입니다.
+  avatar           : "image/profile/2020me.jpg"     # 프로필 사진 경로입니다.
+  bio              : ""
+  location         : "Republic of Korea"            # 지역 입니다. 
+  email            : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: ""
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kdotu"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: ""
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kdotu"
